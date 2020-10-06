@@ -1,0 +1,15 @@
+It is obvious that you have put a lot of thought and hard work in to this project, and the results are very impressive! The pipeline does an excellent job of identifying the lane lines in the project video, and the writeup is very thorough, making your project a pleasure to review!
+
+
+Suggestions
+-------------
+For bright and shadow regions try using LAB or LUV color space for better detection of lane lines.
+
+For More details refer the below sites
+https://www.researchgate.net/publication/257291768_A_Much_Advanced_and_Efficient_Lane_Detection_Algorithm_for_Intelligent_Highway_Safety
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5017478/
+http://docs.opencv.org/2.4/modules/calib3d/doc/camera_calibration_and_3d_reconstruction.html
+http://docs.opencv.org/3.1.0/dc/dbb/tutorial_py_calibration.html
+
+Algorithm based on current project:
+https://chatbotslife.com/robust-lane-finding-using-advanced-computer-vision-techniques-46875bb3c8aa#.l2uxq26sn
